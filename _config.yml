@@ -6,9 +6,9 @@ color:
   saturation: 0.4040679147001356
   rhythmicContrast: 0.191885327687487
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: HELSEBANKEN

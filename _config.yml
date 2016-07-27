@@ -1,16 +1,16 @@
-typography_spectrum: 0.7156912502832711
+typography_spectrum: 0.6505454238504171
 color:
-  brandStrength: 0.776034843409434
-  lightness: 0.044737478252500296
-  saturation: 0.5784090142697096
-  rhythmicContrast: 0.5581420604139566
+  brandStrength: 0.4205040915403515
+  lightness: 0.8247915538959205
+  saturation: 0.9590391092933714
+  rhythmicContrast: 0.5405360595323145
   brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
-layout_spectrum: 0.04308118112385273
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.4593930570408702
 name: HELSEBANKEN
 navigation:
   - url: 'http://www.helsebanken.net/'

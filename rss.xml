@@ -4,14 +4,14 @@
         <description><![CDATA[Velkommen til Helsebanken!]]></description>
         <link>https://thegrid.ai/helsebanken/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 11:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 10:33:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/helsebanken/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5da57804-a6fa-4518-9d37-b5baaef7a332.gif">]]></description>
+            <title><![CDATA[...velkommen...]]></title>
+            <description><![CDATA[<article><h1>...velkommen...</h1><p>...her tester vi en ny nettside til Helsebanken...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5da57804-a6fa-4518-9d37-b5baaef7a332.gif"></article>]]></description>
             <link>https://thegrid.ai/helsebanken/37893c35-fb7a-49cc-b0a1-f12b5f3c566d/index.html</link>
             <guid isPermaLink="false">37893c35-fb7a-49cc-b0a1-f12b5f3c566d</guid>
-            <pubDate>Wed, 27 Jul 2016 11:51:15 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 10:33:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
